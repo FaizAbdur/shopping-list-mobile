@@ -1,3 +1,5 @@
+
+
 <<<<<<< HEAD
 # shopping_list
 
@@ -18,3 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # shopping-list-mobile
 >>>>>>> 3ba82b00f48c7393679ff63689c1fdc2dcfc489e
+
+
+[![Build status](https://build.appcenter.ms/v0.1/apps/f3a94799-9cc2-4949-b68f-0252571478e5/branches/main/badge)](https://appcenter.ms)
